@@ -93,4 +93,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 ## Website
 
-visit https://eadq001.github.io/order-summary-component-main-dinoy/
+visit https://eadq001.github.io/order-summary-component-main
