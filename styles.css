@@ -131,3 +131,22 @@ main {
 .cancel-order-link:hover {
     color: var(--Dark-blue);
 }
+
+@media (max-width: 394px) {
+
+    body
+    {
+    background-image: url('images/pattern-background-mobile.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    }
+
+    .flex-items {
+        max-width: 350px;
+        max-height: 100%;
+    }
+    
+    .pricing {
+        font-size: 0.9rem;
+    }
+}
