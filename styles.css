@@ -141,6 +141,10 @@ main {
     background-size: contain;
     }
 
+    main {
+        margin: 0rem auto;
+    }
+
     .flex-items {
         max-width: 350px;
         max-height: 100%;
